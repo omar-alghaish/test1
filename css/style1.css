@@ -1968,8 +1968,8 @@ section .div2 div p {
     top: 450px;
     height: max-content;
     display: block;
-    width: 70%;
-    margin-left: 15%;
+    width: 80%;
+    margin-left: 10%;
     background: rgba(255, 255, 255, 0.616);
     padding: 20px 20px;
   }
